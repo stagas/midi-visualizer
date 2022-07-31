@@ -78,6 +78,6 @@
     "webaudio-tools": "^2.0.0"
   },
   "dependencies": {
-    "sigl": "^0.0.5"
+    "sigl": "^0.0.6"
   }
 }
